@@ -711,6 +711,7 @@ types:
       - id: unknown_984
         type: u8
       - id: unknown_992
+        type: u8
 
 # enums
 
